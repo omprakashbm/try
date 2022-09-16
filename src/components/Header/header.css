@@ -1,0 +1,10 @@
+.accountbutton{
+    background-color:  rgb(110, 90, 230);
+}
+.accountbutton:hover{
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2)
+}
+
+.navitems:hover{
+    text-shadow: 0 5px 15px rgba(0, 0, 0, 0.2)
+}
